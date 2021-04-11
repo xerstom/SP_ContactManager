@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Data
 {
     /// <summary>
-    /// Class to manage Datas. Wrote as a design pattern "Mediator".
+    /// Class to manage Datas. Wrote as a mix of designs pattern "Mediator" and "Interface".
     /// </summary>
     public class DataManager
     {
